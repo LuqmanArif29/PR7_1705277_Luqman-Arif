@@ -1,0 +1,7 @@
+Jawaban Perbedaan Left Join,Right Join, inner Join :
+
+1.) Left Join merupakan cara menghubungkan tabel dan menampilkan semua data (kiri) pada tabel yang tidak berhubungan, sedangkan data yang kosong akan bernilai NULL.
+
+2.) Right Join akan menghubungkan tabel dan menampilkan semua data (kanan) pada tabel yang tidak berhubungan, dan data yang kosong akan bernilai NULL.
+
+3.) Inner Join merupakan perintah untuk menampilkan semua data yang mempunyai nilai sama, data yang ditampilkan adalah data yang sama dan berhubungan. 
