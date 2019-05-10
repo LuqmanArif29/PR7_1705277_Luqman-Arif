@@ -27,17 +27,17 @@
         <ul class="navbar-nav mx-auto">
           <li class="nav-item active">
             <a class="nav-link text-white" href="<?php echo site_url('Welcome/index'); ?>">
-                <h3>Left Join1</h3>
+                <h3>Left Join3</h3>
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link text-white" href="<?php echo site_url('Welcome/index1'); ?>">
-                <h3>Right Join1</h3>
+                <h3>Right Join3</h3>
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link text-white" href="<?php echo site_url('Welcome/index2'); ?>">
-                <h3>Inner Join1</h3>
+                <h3>Inner Join3</h3>
             </a>
           </li>
         </ul>
